@@ -49,4 +49,22 @@ Tools & Technologies
 >Scikit-learn
 
 ___________________________________________________________________________________________________________________________________
+Project Workflow
+
+1.Data loading and inspection
+
+2.Data cleaning and handling missing values
+
+3.Exploratory Data Analysis (EDA)
+
+4.Feature engineering
+
+5.Data visualization
+
+6.Machine learning model training
+
+7.Model evaluation
+
+_____________________________________________________________________________________________________________________________________
+
 
